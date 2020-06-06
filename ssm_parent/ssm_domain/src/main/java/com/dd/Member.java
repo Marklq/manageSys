@@ -12,11 +12,6 @@ public class Member {
 
 
     public String getId() {
-
-        if (1==1){
-            System.out.println("0000000000000000000000000");
-        }
-
         return id;
     }
 
